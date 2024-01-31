@@ -1,6 +1,19 @@
-title: Minimal theme
+title: <p align="center"> Pooja Kulkarni </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="https://github.com/PoojaKulkarni1391">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Machine learning & NLP related problems.
+  I have 10 years of experience in MSBI, SQL, DW and ETL processing.
+  Working with Atos Syntel as MSBI Developer.
+  Worked with in Wells Fargo, Deloitte USI and Cognizant.
+  <br>
+  </p>
+
+
+
+
 theme: jekyll-theme-minimal
